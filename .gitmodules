@@ -1,0 +1,3 @@
+[submodule "Life_Table"]
+	path = Life_Table
+	url = ../Life_Table
