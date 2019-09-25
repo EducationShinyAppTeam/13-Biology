@@ -1,2 +1,2 @@
-# 13-Other_Disciplines
-Chapter 13: Other Disciplines
+# Chapter 13: Stochasticity in Biology
+- [Life Table](https://github.com/EducationShinyAppTeam/Life_Table)
