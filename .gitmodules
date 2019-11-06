@@ -1,6 +1,6 @@
 [submodule "Life_Table"]
 	path = Life_Table
 	url = ../Life_Table
-[submodule "Probability_Application"]
-	path = Probability_Application
-	url = ../Probability_Application
+[submodule "Population_Growth"]
+	path = Population_Growth
+	url = ../Population_Growth
